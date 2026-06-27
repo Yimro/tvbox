@@ -42,9 +42,9 @@
 <span>Disney+</span>
 </a>
 -->
-<a class="card" href="http://localhost:32400/web" target="_self">
-<img src="images/plex.png">
-<span>Plex</span>
+<a class="card" href="" target="_self">
+<img src="images/internet.png">
+<span>Internetz</span>
 </a>
 <!--
 <a class="card" href="http://localhost:8080" target="_self">
