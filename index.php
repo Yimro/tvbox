@@ -8,7 +8,7 @@
 
 <body>
 
-<h1>📺 TV-Box Wohnzimmer</h1>
+<h1>📺 TV-Box x Wohnzimmer</h1>
 
 <div class="grid">
 
