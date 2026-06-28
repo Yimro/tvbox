@@ -8,7 +8,7 @@
 
 <body>
 
-<h1>📺 TV-Box x Wohnzimmer</h1>
+<h1>📺 Fernseher im Wohnzimmer</h1>
 
 <div class="grid">
 
@@ -41,12 +41,12 @@
 <img src="images/disney.png">
 <span>Disney+</span>
 </a>
--->
+
 <a class="card" href="" target="_self">
 <img src="images/internet.png">
-<span>Internetz</span>
+<span>Internet</span>
 </a>
-<!--
+
 <a class="card" href="http://localhost:8080" target="_self">
 <img src="images/kodi.png">
 <span>Kodi</span>
