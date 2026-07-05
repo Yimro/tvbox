@@ -78,7 +78,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 <a class="card" href="https://www.spotify.com" target="_self">
 <img src="images/spotify.png">
-<span>Spoddivei</span>
+<span>Spotify</span>
 </a>
 <!--
 <a class="card" href="https://www.zdf.de" target="_self">

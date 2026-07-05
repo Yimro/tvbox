@@ -1,6 +1,7 @@
 body{
     margin:0;
     background:#101010;
+    background-image: url("images/background.jpg");
     color:white;
     font-family:Arial,Helvetica,sans-serif;
 }
@@ -9,6 +10,7 @@ h1{
     text-align:center;
     padding:25px;
     font-size:40px;
+    color:purple;
 }
 
 .grid{
@@ -43,6 +45,13 @@ h1{
     display:block;
     margin-top:20px;
     font-size:24px;
+}
+
+.card.focused,
+.card:focus {
+  outline: 3px solid #fff;
+  outline-offset: 3px;
+  transform: scale(1.05);
 }
 
 .footer{
