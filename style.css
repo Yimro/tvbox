@@ -31,7 +31,7 @@ h1{
 }
 
 .card:hover{
-    background:#3d7eff;
+    /*background:#3d7eff;*/
     transform:scale(1.06);
 }
 

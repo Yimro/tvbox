@@ -80,12 +80,18 @@ document.addEventListener('DOMContentLoaded', function () {
 <img src="images/spotify.png">
 <span>Spotify</span>
 </a>
-<!--
+
 <a class="card" href="https://www.zdf.de" target="_self">
-<img src="images/zdf.png">
+<img src="images/zdf.svg">
 <span>ZDF</span>
 </a>
 
+
+<a class="card" href="https://www.arte.tv" target="_self">
+<img src="images/arte.svg">
+<span>arte</span>
+</a>
+<!--
 <a class="card" href="https://www.disneyplus.com" target="_self">
 <img src="images/disney.png">
 <span>Disney+</span>
